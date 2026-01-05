@@ -27,3 +27,4 @@ The application is a music player with a stylish GUI. Users can register or log 
 ## Notes
 - Developed and tested in IntelliJ IDEA.
 - Songs are pre-stored within the project.
+- Due to file size limitations, only two songs are contained in the music folder for demonstration purposes.
