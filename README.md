@@ -2,6 +2,10 @@
 
 The application is a music player with a stylish GUI. Users can register or log in, create playlists, and play pre-stored songs with standard playback controls.
 
+# Demonstration Video
+
+Link: https://youtu.be/Y1f8B7mky9I
+
 ## Features
 - User registration and login system
 - Playlist creation by adding song names
